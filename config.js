@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hế luuuu cậu Qúy!',
+    introDesc: `Hisiii mai là ngày cậu tốt nghiệp phải không ạ? `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Nhanh thật lun ý, cậu cháu sắp được về nước òioooo 😙',
+    desc: 'Cháu có món quà nho nhỏ nhưng cả một tấm lòng to to gửi cậu trước lúc cậu tốt nghiệp ạ ',
+    btnYes: 'Ok, cậu nhận nhé, cậu cảm ơn<33',
+    btnNo: 'Thôi quà cáp làm gì, tập trung học là cậu vui rồi:3',
+    question:'Món quà cháu làm tuy nghèo về vật chất nhưng lại giàu tình cảm <3',
+    btnReply: 'Gửi cho cháu gái <3',
+    reply: 'Cậu hy vọng vào món quà lắm đấy nhóooo <33333333',
+    mess: 'Cháu biết mà 🥰. Cháu sẽ không làm cậu thất vọng đâu 😘😘',
+    messDesc: 'Cậu chuẩn bị sẵn sàng chưa ạ?.',
+    btnAccept:'3,2,1 bắt đầu nhé',
+    messLink: 'https://www.youtube.com/watch?v=118gKNph8iI' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
