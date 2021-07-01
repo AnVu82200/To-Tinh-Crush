@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Hế lô cậu Qúy!',
+    introDesc: `Ỏhhhh, nhanh thật lun ấy, cậu đi lâu thế`,
+    btnIntro: 'Đây là món quà đáp lễ của cháu dành cho cậu cháu vì cậu mua nhiều ơi là nhiều thứ cho cháu và đám bạn cháu ghen tỵ cực kỳ',
+    title: 'Xin sư thúc hãy nhận lấy món quà nhỏ bé này của cháu 😙',
+    desc: 'Cậu hãy nhận lấy tấm lòng mề này của cháu hihi ',
+    btnYes: 'Hiii cậu cảm ơn cậu nhận nhé<33',
+    btnNo: 'Thôi quà làm gì cháu gái :3',
+    question:'Cậu đồng ý nhận quà cậu nhé <3',
+    btnReply: 'Gửi cho cháu gái<3',
+    reply: 'Xem quà của cháu tôi nào <33333333',
+    mess: 'Cảm ơn cậu, món quà này không làm cậu thất vọng đâu ạ😘😘',
+    messDesc: 'Cậu xem vui vẻ cậu nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=118gKNph8iI' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
